@@ -1,0 +1,6 @@
+C:\Users\Alumno\Documents\GitHub\ClasesUA\HTML_UA\bin\HTML_UA.dll.config
+C:\Users\Alumno\Documents\GitHub\ClasesUA\HTML_UA\bin\HTML_UA.dll
+C:\Users\Alumno\Documents\GitHub\ClasesUA\HTML_UA\bin\HTML_UA.pdb
+C:\Users\Alumno\Documents\GitHub\ClasesUA\HTML_UA\obj\Debug\HTML_UA.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\ClasesUA\HTML_UA\obj\Debug\HTML_UA.dll
+C:\Users\Alumno\Documents\GitHub\ClasesUA\HTML_UA\obj\Debug\HTML_UA.pdb
